@@ -1,0 +1,30 @@
+Assignment 2(Overview of day 2 class)
+
+
+Part 1
+1.Backslash(\)
+The backslash "\" is a special character, also called the "escape" character.It is used in representing certain whitespace characters: "\t" is a tab, "\n" is a newline, and "\r" is a carriage return. Conversely, prefixing a special character with "\" turns it into an ordinary character.
+
+2.Triple quotes(""" or ''')
+String literals inside triple quotes, """ or ''', can span multiple lines of text
+3.Output formatting
+The % operator can also be used for string formatting, also to use formatted string literals, begin a string with f or F before the opening quotation mark or triple quotation mark can be used.
+eg.print integer and float value 
+print("Geeks : % 2d, Portal : % 5.2f" %(1, 05.333))
+
+
+Part 2
+1.Variables
+variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. ... Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc. Variables can be declared by any name or even alphabets like a, aa, abc, etc.
+
+
+Part 3
+1.Arithmetic operators
+Arithmetic operators used in python are +(Addition), -(Subtraction),*(Multiplication), /(Division), % (Modulus), ** (Exponent), //(Floor Division)
+
+2.Bitwise operators
+Bitwise operators used in python are |(Bitwise OR operator), &((Bitwise AND operator), ~(Binary one's Complement), ^(Bitwise XOR operator), <<(Binary Left shift operator), >>(Binary Right shift operator)
+
+3.Operators precedence
+Operators precedence in python is followed by highest precedening operator **(Exponentiation) followed by ~ + -(Complement, unary plus and minus) followed by * / % //(Multiply, divide, modulo and floor division) followed by + -(Addition and subtraction) followed by >> <<(Right and left bitwise shift) followed by &(Bitwise 'AND') and ^ |(Bitwise `XOR' and `OR') and <= < > >=(Comparison operators) and <> == !=(Equality operators)
+ 
